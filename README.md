@@ -13,16 +13,16 @@ Home Assistant에서 TMAP API를 이용하여 Device Tracker의 위/경도를 �
 
 [TMAP API 가이드](https://openapi.sk.com/products/detail?linkMenuSeq=122)를 참고하세요.
 
-## 2. Home Assistant에 Tmap Travel Time 설치
+## 2. Home Assistant에 Tmap Address 설치
 
 ### HACS 또는 Manual 설치
 
-1. HACS를 이용하거나 수동으로 **Tmap Travel Time**을 설치합니다.
+1. HACS를 이용하거나 수동으로 **Tmap Address**을 설치합니다.
 2. 설치 후 Home Assistant를 재부팅합니다.
 
 ### 통합 구성 요소 추가
 
-1. **설정 -> 기기 및 서비스 -> 통합구성요소 추가하기**에서 `Tmap Travel Time`을 추가합니다.
+1. **설정 -> 기기 및 서비스 -> 통합구성요소 추가하기**에서 `Tmap Address`을 추가합니다.
 2. 설정 항목을 입력합니다.
    - **Sensor Name**: 원하는 센서 이름을 입력합니다.
    - **Target Entity ID**: 주소를 표시할 Device Tracker의 `entity_id`를 입력합니다.
