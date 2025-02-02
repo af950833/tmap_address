@@ -1,8 +1,8 @@
-# Tmap Travel Time for Home Assistant
+# Tmap Address for Home Assistant
 
-![Tmap Travel Time Logo](images/logo.png)
+![Tmap Address Logo](images/logo.png)
 
-Home Assistant에서 TMAP API를 이용하여 자동차 운행 기준 도착 예상 시간을 표시하는 센서입니다.
+Home Assistant에서 TMAP API를 이용하여 Device Tracker의 위/경도를 기반으로 현재 주소를 표시하는 센서입니다.
 
 ## 1. TMAP API 사용 준비
 
