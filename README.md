@@ -1,3 +1,9 @@
+# Tmap Address for Home Assistant
+
+![Tmap Address Logo](images/logo.png)
+
+Home Assistant에서 TMAP API를 이용하여 Device Tracker의 위/경도를 기반으로 현재 주소를 표시하는 센서입니다.
+
 ## 1. TMAP API 사용 준비
 
 1. [TMAP API 사이트](https://openapi.sk.com/)에서 회원가입을 진행합니다.
