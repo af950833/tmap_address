@@ -39,6 +39,6 @@ Home Assistant에서 TMAP API를 이용하여 Device Tracker의 위/경도를 �
 ---
 
 
-#### <Revision History>
+#### Revision History
 
 2025/03/09 V1.0.1 위경도 좌표값이 늦게 올라오는 entity_id를 고려하여 시작 시점에 30초 지연 시간을 추가
